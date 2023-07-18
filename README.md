@@ -11,7 +11,7 @@
 |CIÊNCIAS FORMAIS|Ciência da Computação|Linguagens de marcação, estilo e programação|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Virtualização|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Redes de Computadores|- [**UNIASSELVI** - Livro - Fundamentos de redes de computadores](https://github.com/dnlclaudino/repositorio-central-referencias-bibliograficas/blob/master/livro-UNIASSELVI-fundamentos-de-redes-de-computadores.md)<br>|-|
-|CIÊNCIAS FORMAIS|Ciência da Computação|Segurança da Informação|-|-|
+|CIÊNCIAS FORMAIS|Ciência da Computação|Segurança da Informação|-[**UNIASSELVI** - Livro - Segurança da Informação em TI](https://github.com/dnlclaudino/repositorio-central-referencias-bibliograficas/blob/master/livro-UNIASSELVI-seguranca-da-informacao-em-ti)<br>|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Sistemas Operacionais|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Testes de software|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Cálculo|-|-|
@@ -51,7 +51,7 @@
 |CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Literatura|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Medicina|Anatomia|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Medicina|Fisiologia|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Metodologia Científica|Metodologia Ciêntífica<br>e da Pesquisa|- [Livro UNIASSELVI - Produção do Conhecimento Científico e Tecnologia](https://github.com/dnlclaudino/repositorio-central-referencias-bibliograficas/blob/master/livro-UNIASSELVI-producao-do-cientifico-e-tecnologia.md)<br>|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Metodologia Científica|Metodologia Ciêntífica<br>e da Pesquisa|- [**UNIASSELVI** - Livro - Produção do Conhecimento Científico e Tecnologia](https://github.com/dnlclaudino/repositorio-central-referencias-bibliograficas/blob/master/livro-UNIASSELVI-producao-do-cientifico-e-tecnologia.md)<br>|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Padronizações<br>Nacionais e<br>Internacionais|ISO|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Padronizações<br>Nacionais e<br>Internacionais|NBR|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|História da Psicologia|-|-|

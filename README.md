@@ -51,7 +51,7 @@
 |CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Literatura|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Medicina|Anatomia|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Medicina|Fisiologia|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Metodologia Científica|Metodologia Ciêntífica<br>e da Pesquisa|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Metodologia Científica|Metodologia Ciêntífica<br>e da Pesquisa|- [Livro UNIASSELVI - Produção do Conhecimento Científico e Tecnologia](https://github.com/dnlclaudino/repositorio-central-referencias-bibliograficas/blob/master/livro-UNIASSELVI-producao-do-cientifico-e-tecnologia.md)<br>|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Padronizações<br>Nacionais e<br>Internacionais|ISO|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Padronizações<br>Nacionais e<br>Internacionais|NBR|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|História da Psicologia|-|-|

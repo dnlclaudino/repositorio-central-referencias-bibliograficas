@@ -6,23 +6,23 @@
 
 ## Relação de Referências
 
-ABNT. [NBR ISO/IEC 19011: tecnologia da informação - técnicas de segurança - sistema de gestão da segurança da informação - visão geral e vocabulário](). Rio de Janeiro: ABNT, 2018a[^ABNT2018a].
+ABNT. [NBR-ISO-IEC 19011: tecnologia da informação - técnicas de segurança - sistema de gestão da segurança da informação - visão geral e vocabulário](). Rio de Janeiro: ABNT, 2018a[^ABNT2018a].
 
-ABNT. [NBR ISO/IEC 27000: tecnologia da informação - técnicas de segurança - sistema de gestão da segurança da informação - visão geral e vocabulário](https://1drv.ms/b/s!Au-CrfNP6c0bhpoE2T2bWx08elOMyg?e=VZQYRA). Rio de Janeiro: ABNT, 2018b[^ABNT2018b].
+ABNT. [NBR-ISO-IEC 27000: tecnologia da informação - técnicas de segurança - sistema de gestão da segurança da informação - visão geral e vocabulário](https://1drv.ms/b/s!Au-CrfNP6c0bhpoE2T2bWx08elOMyg?e=VZQYRA). Rio de Janeiro: ABNT, 2018b[^ABNT2018b].
 
 ABNT. [NBR-ISO-IEC 27002 - TI - Tecnicas de Seguranca - CODIGO de PRATICA para CONTROLES de SEGURANÇA DA INFORMACAO](https://1drv.ms/b/s!Au-CrfNP6c0bhpg-eoOYsEdTIUfkuQ?e=FHV57i). Rio de Janeiro: ABNT, 2016[^ABNT2016].
 
-ABNT. [NBR ISO/IEC 27003: tecnologia da informação - técnicas de segurança - diretrizes para implantação de um sistema de gestão da segurança da informação](). Rio de Janeiro: ABNT, 2015[^ABNT2015].
+ABNT. [NBR-ISO-IEC 27003: tecnologia da informação - técnicas de segurança - diretrizes para implantação de um sistema de gestão da segurança da informação](). Rio de Janeiro: ABNT, 2015[^ABNT2015].
 
-ABNT. [NBR ISO/IEC 27001: tecnologia da informação - técnicas de segurança - sistema de gestão da segurança da informação - requisitos](https://1drv.ms/b/s!Au-CrfNP6c0bhpg8MYT-LjkZsOrB0A?e=bsMPTY). Rio de Janeiro:ABNT, 2013a[^ABNT2013a].
+ABNT. [NBR-ISO-IEC 27001: tecnologia da informação - técnicas de segurança - sistema de gestão da segurança da informação - requisitos](https://1drv.ms/b/s!Au-CrfNP6c0bhpg8MYT-LjkZsOrB0A?e=bsMPTY). Rio de Janeiro:ABNT, 2013a[^ABNT2013a].
 
-ABNT. [NBR ISO/IEC 27002: tecnologia da informação - técnicas de segurança - técnicas de prática para a gestão da segurança da informação](https://1drv.ms/b/s!Au-CrfNP6c0bhpg-eoOYsEdTIUfkuQ?e=FHV57i). Rio de Janeiro:ABNT, 2013b[^ABNT2013b].
+ABNT. [NBR-ISO-IEC 27002: tecnologia da informação - técnicas de segurança - técnicas de prática para a gestão da segurança da informação](https://1drv.ms/b/s!Au-CrfNP6c0bhpg-eoOYsEdTIUfkuQ?e=FHV57i). Rio de Janeiro:ABNT, 2013b[^ABNT2013b].
 
 ABRAPP, Comissão Técnica Regional Sudeste de Governança da. Guia de boas práticas para planos de continuidade de negócios. São Paulo: ABRAPP, 2012. Disponível em: http://www.abrapp.org.br/GuiasManuais/guia_continuidade_negocios.pdf. Acesso em: 1° maio 2020.
 
 AFROREGGAE. Comunicado 1, de 13 de janeiro de 2014. Política de privacidade para e-mail institucional, celular corporativo e computadores. Rio de Janeiro: Grupo Cultural AfroReggae, 2014. Disponível em: https://www.afroreggae.org/wp-content/uploads/2014/05/comunicado-politica-deprivacidade-para-email.pdf. Acesso em: 1° abr. 2020.
 
-ANSI. ANSI/ASIS CSO.1-2013: chief security officer - an organizational model. x: asis international, Washington, D.C.: ANSI, 2013. 32 p.
+ANSI. ANSI/ASIS CSO.1-2013: chief security officer - an organizational model. x: asis international, Washington, D.C.: ANSI, 2013. 32p.
 
 ARAÚJO, W. J. de; ARAÚJO, S. G. L.; BATISTA, R. R. Estudo dos aspectos humanos da segurança da informação aplicado na Pró-Reitoria de Gestão de Pessoas da Universidade Federal da Paraíba - UFPB. Informação & Informação, Londrina, v. 23, n. 2, p. 596-618, maio/ago. 2018. Disponível em: http://dx.doi. org/10.5433/1981-8920.2018v23n2p596. Acesso em: 5 ago. 2020.
 

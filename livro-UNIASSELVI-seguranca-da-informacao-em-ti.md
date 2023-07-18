@@ -46,9 +46,11 @@ CARDOSO, A. (org.). Auditoria de sistema de gestão integrada. São Paulo:Pearso
 CARNEIRO, L. E. dos S.; ALMEIDA, M. B. Segurança da informação: uma investigação na perspectiva do usuário de sistemas de informação corporativos
 em uma organização de saúde. In: CONFERÊNCIA IBERO AMERICANA COMPUTAÇÃO APLICADA, 2013, Porto Alegre. Anais [...]. Porto Alegre: IADIS, 2013. p. 127-134. Disponível em: http://mba.eci.ufmg.br/downloads/IADIS%20Conference%20Seg%20Inform%20camera%20ready%20web.pdf. Acesso em: 1° abr. 2020.
 
-CAZEMIER, J. A.; OVERBEEK, P.; PETERS, L. Information security management with ITIL V3. 's-Hertogenbosch: Van Haren Publishing, 2010. 132 p.
+CAZEMIER, J. A.; OVERBEEK, P.; PETERS, L. Information security management with ITIL V3. 's-Hertogenbosch: Van Haren Publishing, 2010. 132p.
 
-CHIROLI, D. M. de G. Avaliação de sistemas de qualidade. Curitiba: InterSaberes, 2016. 308 p.CUCOLO, E. Dados mostram a dimensão histórica do impacto da Covid-19 na economia. Folha de São Paulo, São Paulo, 11 jul. 2020. Disponível em: https://www1.folha.uol.com.br/mercado/2020/07/dados-mostram-a-dimensao-historicado-impacto-da-covid-19-na-economia.shtml. Acesso em: 15 jul. 2020.
+CHIROLI, D. M. de G. Avaliação de sistemas de qualidade. Curitiba: InterSaberes, 2016. 308p.
+
+CUCOLO, E. Dados mostram a dimensão histórica do impacto da Covid-19 na economia. Folha de São Paulo, São Paulo, 11 jul. 2020. Disponível em: https://www1.folha.uol.com.br/mercado/2020/07/dados-mostram-a-dimensao-historicado-impacto-da-covid-19-na-economia.shtml. Acesso em: 15 jul. 2020.
 
 DONOHUE, B. O que é a autenticação de dois fatores e como usá-la? Kaspersky daily, [s. l.], 2014. Disponível em: https://www.kaspersky.com.br/blog/o-que-ea-autenticacao-de-dois-fatores-e-como-usa-la/3226/. Acesso em: 1° jul. 2020.
 
@@ -65,11 +67,11 @@ FRANGOPOULOS, E. D.; ELOFF, M. M.; VENTER, L. M. Psychosocial risks. Information
 
 GAEA. Auditoria de TI: tudo o que você precisa saber sobre o assunto! Gaea, [s.l.], c2020. Disponível em: https://gaea.com.br/auditoria-de-ti-tudo-o-que-voceprecisa-saber-sobre-o-assunto/. Acesso em: 1° abr. 2020.
 
-GHODDOSI, N. Gestão da segurança da informação. Indaial: UNIASSELVI, 102 p. 
+GHODDOSI, N. Gestão da segurança da informação. Indaial: UNIASSELVI, 102p. 
 
-HINTZBERGEN, J. et al. Fundamentos de segurança da informação: com base na ISO 27001 e na ISO 27002. Rio de Janeiro: Brasport, 2018. 267 p.
+HINTZBERGEN, J. et al. Fundamentos de segurança da informação: com base na ISO 27001 e na ISO 27002. Rio de Janeiro: Brasport, 2018. 267p.
 
-IMONIANA, J. O. Auditoria de sistemas de informação. 3. ed. São Paulo: Atlas, 2017, 197 p.
+IMONIANA, J. O. Auditoria de sistemas de informação. 3. ed. São Paulo: Atlas, 2017, 197p.
 
 PLUGAR. Os 11 princípios e a aplicabilidade da Lei Geral de Proteção de Dados (LGPD). Plugar data & Intelligence, Porto Alegre, 28 mar. 2019. Disponível em: https://www.plugar.com.br/os-11-principios-e-a-aplicabilidade-da-lei-geral-deprotecao-de-dados-lgpd/. Acesso em: 1° abr. 2020.
 
@@ -83,21 +85,23 @@ LENTO, L. O. B.; FRAGA, J. S.; LUNG, L. C. A nova geração de modelos de contro
 
 LIMA, M. CP: Mitnick, um hacker sem computador. Baguete, Porto Alegre, 26 jan. 2010. Disponível em: https://www.baguete.com.br/noticias/geral/26/01/2010/cp-mitnick-um-hacker-sem-computador. Acesso em: 1° abr. 2020.
 
-LUZ, É. E. da. Auditoria e perícia contábil trabalhista. São Paulo: Pearson, 2016. 128 p.
+LUZ, É. E. da. Auditoria e perícia contábil trabalhista. São Paulo: Pearson, 2016. 128p.
 
 MACÊDO, D. Conceito, tipos e características de auditoria de segurança da informação. Diego Macêdo: um pouco de tudo sobre T.I. [s. l.], 29 mar. Disponível em: https://www.diegomacedo.com.br/conceito-tipos-ecaracteristicas-de-auditoria-de-seguranca-da-informacao/. Acesso em: 1° jul.
 
 MACHADO, M. J. Controle de acessos. Segurança da Informação, Curitiba, 2 abr. 2017. Disponível em: https://marceljm.com/seguranca-da-informacao/controle-de-acessos/. Acesso em: 1° abr. 2020.
 
-MAGALHÃES, I. L.; PINHEIRO, W. B. Gerenciamento de serviços de TI na prática: uma abordagem com base na ITIL. Porto Alegre: Novatec Editora, 2007. 667 p.
+MAGALHÃES, I. L.; PINHEIRO, W. B. Gerenciamento de serviços de TI na prática: uma abordagem com base na ITIL. Porto Alegre: Novatec Editora, 2007. 667p.
 
-MELO, M. M. de; SANTOS, I. R. dos. Auditoria Contábil: atualizada pelas normas internacionais de auditoria. Rio de Janeiro: Freitas Bastos, 2017. 390 p.
+MELO, M. M. de; SANTOS, I. R. dos. Auditoria Contábil: atualizada pelas normas internacionais de auditoria. Rio de Janeiro: Freitas Bastos, 2017. 390p.
 
 MÓDULO. Gestão de Políticas de Segurança da Informação para TI. Módulo, Rio de Janeiro, c2020. Disponível em: https://www.modulo.com.br/gestao-depoliticas-de-seguranca-da-informacao-para-ti/. Acesso em: 1° abr. 2020.
 
 MITNICK, Kevin D.; SIMON, William L. A arte de invadir. São Paulo: Person. Prentice Hall, 2005.
 
-NAKAMURA, E. T. Segurança da informação e de redes. Londrina: Educacional, 2016. 224 p. PALMA, F. Sistema de gestão de segurança da informação (SGSI). Portal GSTI,[s. l.], 13 dez. 2016. Disponível em: https://www.portalgsti.com.br/2016/12/sistema-de-gestao-de-seguranca-da-informacao-sgsi.html Acesso em: 1° abr.2020.
+NAKAMURA, E. T. Segurança da informação e de redes. Londrina: Educacional, 2016. 224p.
+
+PALMA, F. Sistema de gestão de segurança da informação (SGSI). Portal GSTI,[s. l.], 13 dez. 2016. Disponível em: https://www.portalgsti.com.br/2016/12/sistema-de-gestao-de-seguranca-da-informacao-sgsi.html Acesso em: 1° abr.2020.
 
 PANDINI, W. ISO 27000, primeiros passos com a norma. Ostec Segurança Digital de Resultados, c2020. Disponível em: https://ostec.blog/padronizacaoseguranca/primeiros-passos-iso-27000  Acesso em: 1° abr. 2020.
 
@@ -117,13 +121,13 @@ SOARES, P. V. de C. Guia LGPD: lei geral de proteção de dados simplificada. S�
 
 TATICCA. Escopo da auditoria de sistemas. Allinial Global, c2020. Disponível em: https://www.taticca.com.br/pt-br/blog/escopo-da-auditoria-de-sistemas Acesso em: 1° jul. 2020.
 
-TCU. Boas práticas em segurança da informação. 4. ed. Brasília: Secretaria de Fiscalização de Tecnologia da Informação, 2012. 103 p.
+TCU. Boas práticas em segurança da informação. 4. ed. Brasília: Secretaria de Fiscalização de Tecnologia da Informação, 2012. 103p.
 
 POSITIVO TECNOLOGIA. Segurança da informação: conheça as 12 melhores práticas. conheça as 12 melhores práticas. Panorama Positivo, Curitiba, 15 nov. XXXX. Disponível em: https://www.meupositivo.com.br/panoramapositivo/seguranca-da-informacao/ Acesso em: 1° abr. 2020.
 
 TEIXEIRA, J. P. F. Você: titular de dados pessoais. Jusbrasil, [s. l.], 24 set. 2019. Disponível em: https://joaopedrofteixeira.jusbrasil.com.br/artigos/760627772/voce-titular-de-dados-pessoais Acesso em: 1° jul. 2020.
 
-TEIXEIRA FILHO, S. A. Segurança da informação descomplicada. Joinville: Clube de Autores, 2019. 516 p.
+TEIXEIRA FILHO, S. A. Segurança da informação descomplicada. Joinville: Clube de Autores, 2019. 516p.
 
 SILVEIRA, J. C. Pode ou não pode: o empregador monitorar e-mail corporativo de trabalhadores. 2017. Brasília: Justiça do Trabalho, Rádio Justiça, 2017. Disponível em: http://www.tst.jus.br/radio-destaques/-/asset_publisher/2bsB/content/pode-ou-nao-pode-o-empregador-monitorar-e-mail-corporativo-detrabalhadores Acesso em: 1° abr. 2020.
 

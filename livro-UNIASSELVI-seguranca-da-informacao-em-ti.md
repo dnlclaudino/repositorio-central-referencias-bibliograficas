@@ -1,38 +1,36 @@
 # Livro UNIASSELVI - Segurança da Informação em TI
 
+## Planilha de Central de Referências Bibliográficas
+
+- Todas as referências abaixo DEVE SER cadastradas na [Planilha Central de Referências Bibliográficas]().
+
 ## Relação de Referências
 
-BAY, Edemilson; PBLUNING, Paulo Henrique. Fundamentos de redes de computadores. Indaial:Uniasselvi, 2016[^BAY-PBLUNIG-2016].
+ABNT. [NBR ISO/IEC 19011: tecnologia da informação - técnicas de segurança - sistema de gestão da segurança da informação - visão geral e vocabulário](). Rio de Janeiro: ABNT, 2018a[^ABNT2018a].
 
-[^ABNT2018a]: ABNT. [NBR ISO/IEC 19011: tecnologia da informação - técnicas de segurança - sistema de gestão da segurança da informação - visão geral e vocabulário](). Rio de Janeiro: ABNT, 2018a.
+ABNT. [NBR ISO/IEC 27000: tecnologia da informação - técnicas de segurança - sistema de gestão da segurança da informação - visão geral e vocabulário](https://1drv.ms/b/s!Au-CrfNP6c0bhpoE2T2bWx08elOMyg?e=VZQYRA). Rio de Janeiro: ABNT, 2018b[^ABNT2018b].
 
-[^ABNT2018b]:ABNT. [NBR ISO/IEC 27000: tecnologia da informação - técnicas de segurança - sistema de gestão da segurança da informação - visão geral e vocabulário](https://1drv.ms/b/s!Au-CrfNP6c0bhpoE2T2bWx08elOMyg?e=VZQYRA). Rio de Janeiro: ABNT, 2018b.
+ABNT. [NBR-ISO-IEC 27002 - TI - Tecnicas de Seguranca - CODIGO de PRATICA para CONTROLES de SEGURANÇA DA INFORMACAO](https://1drv.ms/b/s!Au-CrfNP6c0bhpg-eoOYsEdTIUfkuQ?e=FHV57i). Rio de Janeiro: ABNT, 2016[^ABNT2016].
 
-[^ABNT2016]: ABNT. [NBR-ISO-IEC 27002 - TI - Tecnicas de Seguranca - CODIGO de PRATICA para CONTROLES de SEGURANÇA DA INFORMACAO](https://1drv.ms/b/s!Au-CrfNP6c0bhpg-eoOYsEdTIUfkuQ?e=FHV57i). Rio de Janeiro: ABNT, 2016.
+ABNT. [NBR ISO/IEC 27003: tecnologia da informação - técnicas de segurança - diretrizes para implantação de um sistema de gestão da segurança da informação](). Rio de Janeiro: ABNT, 2015[^ABNT2015].
 
-[^ABNT2015]: ABNT. [NBR ISO/IEC 27003: tecnologia da informação - técnicas de segurança - diretrizes para implantação de um sistema de gestão da segurança da informação](). Rio de Janeiro: ABNT, 2015.
+ABNT. [NBR ISO/IEC 27001: tecnologia da informação - técnicas de segurança - sistema de gestão da segurança da informação - requisitos](https://1drv.ms/b/s!Au-CrfNP6c0bhpg8MYT-LjkZsOrB0A?e=bsMPTY). Rio de Janeiro:ABNT, 2013a[^ABNT2013a].
 
-[^ABNT2013a]: ABNT. [NBR ISO/IEC 27001: tecnologia da informação - técnicas de segurança - sistema de gestão da segurança da informação - requisitos](https://1drv.ms/b/s!Au-CrfNP6c0bhpg8MYT-LjkZsOrB0A?e=bsMPTY). Rio de Janeiro:ABNT, 2013a.
+ABNT. [NBR ISO/IEC 27002: tecnologia da informação - técnicas de segurança - técnicas de prática para a gestão da segurança da informação](https://1drv.ms/b/s!Au-CrfNP6c0bhpg-eoOYsEdTIUfkuQ?e=FHV57i). Rio de Janeiro:ABNT, 2013b[^ABNT2013b].
 
-[^ABNT2013b]: [ABNT. NBR ISO/IEC 27002: tecnologia da informação - técnicas de segurança - técnicas de prática para a gestão da segurança da informação](https://1drv.ms/b/s!Au-CrfNP6c0bhpg-eoOYsEdTIUfkuQ?e=FHV57i). Rio de Janeiro:ABNT, 2013b.
+ABRAPP, Comissão Técnica Regional Sudeste de Governança da. Guia de boas práticas para planos de continuidade de negócios. São Paulo: ABRAPP, 2012. Disponível em: http://www.abrapp.org.br/GuiasManuais/guia_continuidade_negocios.pdf. Acesso em: 1° maio 2020.
 
-ABRAPP, Comissão Técnica Regional Sudeste de Governança da. Guia de boas práticas para planos de continuidade de negócios. São Paulo: ABRAPP, 2012.
-Disponível em: http://www.abrapp.org.br/GuiasManuais/guia_continuidade_negocios.pdf. Acesso em: 1° maio 2020.
-
-AFROREGGAE. Comunicado 1, de 13 de janeiro de 2014. Política de privacidade para e-mail institucional, celular corporativo e computadores. Rio de Janeiro: Grupo Cultural AfroReggae, 2014. Disponível em: https://www.afroreggae.org/wp-content/uploads/2014/05/comunicado-politica-deprivacidade-
-para-email.pdf. Acesso em: 1° abr. 2020.
+AFROREGGAE. Comunicado 1, de 13 de janeiro de 2014. Política de privacidade para e-mail institucional, celular corporativo e computadores. Rio de Janeiro: Grupo Cultural AfroReggae, 2014. Disponível em: https://www.afroreggae.org/wp-content/uploads/2014/05/comunicado-politica-deprivacidade-para-email.pdf. Acesso em: 1° abr. 2020.
 
 ANSI. ANSI/ASIS CSO.1-2013: chief security officer - an organizational model. x: asis international, Washington, D.C.: ANSI, 2013. 32 p.
 
-ARAÚJO, W. J. de; ARAÚJO, S. G. L.; BATISTA, R. R. Estudo dos aspectos humanos da segurança da informação aplicado na Pró-Reitoria de Gestão de
-Pessoas da Universidade Federal da Paraíba - UFPB. Informação & Informação, Londrina, v. 23, n. 2, p. 596-618, maio/ago. 2018. Disponível em: http://dx.doi. org/10.5433/1981-8920.2018v23n2p596. Acesso em: 5 ago. 2020.
+ARAÚJO, W. J. de; ARAÚJO, S. G. L.; BATISTA, R. R. Estudo dos aspectos humanos da segurança da informação aplicado na Pró-Reitoria de Gestão de Pessoas da Universidade Federal da Paraíba - UFPB. Informação & Informação, Londrina, v. 23, n. 2, p. 596-618, maio/ago. 2018. Disponível em: http://dx.doi. org/10.5433/1981-8920.2018v23n2p596. Acesso em: 5 ago. 2020.
 
-ARRUDA, F. Saiba como hackers apagaram a vida digital de um jornalista em apenas uma hora. Tecmundo, São Paulo, 7 ago. 2012. Disponível em: https://
-www.tecmundo.com.br/seguranca/27993-saiba-como-hackers-apagaram-a-vidadigital-de-um-jornalista-em-apenas-uma-hora.htm. Acesso em: 1° abr. 2020.
+ARRUDA, F. Saiba como hackers apagaram a vida digital de um jornalista em apenas uma hora. Tecmundo, São Paulo, 7 ago. 2012. Disponível em: https://www.tecmundo.com.br/seguranca/27993-saiba-como-hackers-apagaram-a-vidadigital-de-um-jornalista-em-apenas-uma-hora.htm Acesso em: 1° abr. 2020.
+
 BEAL, A. Segurança da informação: princípios e melhores práticas para a proteção dos ativos de informação nas organizações. São Paulo: Atlas, 2008.
 
-BLUM, R. O.; LOPES, N. Lei geral de proteção de dados no setor público: transparência e fortalecimento do estado democrático de direito. Cadernos
-Jurídicos (EPM), São Paulo, ano 21, n. 53, p. 171-178, mar. 2020. Disponível em:http://www.tjsp.jus.br/download/EPM/Publicacoes/CadernosJuridicos/ii_7_cadernos_juridicos_epm.pdf?d=637250348268501368. Acesso em: 25 ago. 2020.
+BLUM, R. O.; LOPES, N. Lei geral de proteção de dados no setor público: transparência e fortalecimento do estado democrático de direito. Cadernos Jurídicos (EPM), São Paulo, ano 21, n. 53, p. 171-178, mar. 2020. Disponível em:http://www.tjsp.jus.br/download/EPM/Publicacoes/CadernosJuridicos/ii_7_cadernos_juridicos_epm.pdf?d=637250348268501368. Acesso em: 25 ago. 2020.
 
 BRASIL. Lei nº 13.709, de 14 de agosto de 2018. Lei Geral de Proteção de Dados Pessoais (LGPD). Brasília: Poder Executivo, 2018. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm. Acesso em: 1 mar.2020.
 
@@ -99,17 +97,16 @@ MÓDULO. Gestão de Políticas de Segurança da Informação para TI. Módulo, R
 
 MITNICK, Kevin D.; SIMON, William L. A arte de invadir. São Paulo: Person. Prentice Hall, 2005.
 
-NAKAMURA, E. T. Segurança da informação e de redes. Londrina: Educacional, 2016. 224 p. PALMA, F. Sistema de gestão de segurança da informação (SGSI). Portal GSTI,[s. l.], 13 dez. 2016. Disponível em: https://www.portalgsti.com.br/2016/12/
-sistema-de-gestao-de-seguranca-da-informacao-sgsi.html. Acesso em: 1° abr.2020.
+NAKAMURA, E. T. Segurança da informação e de redes. Londrina: Educacional, 2016. 224 p. PALMA, F. Sistema de gestão de segurança da informação (SGSI). Portal GSTI,[s. l.], 13 dez. 2016. Disponível em: https://www.portalgsti.com.br/2016/12/sistema-de-gestao-de-seguranca-da-informacao-sgsi.html Acesso em: 1° abr.2020.
 
-PANDINI, W. ISO 27000, primeiros passos com a norma. Ostec Segurança Digital de Resultados, c2020. Disponível em: https://ostec.blog/padronizacaoseguranca/
-primeiros-passos-iso-27000. Acesso em: 1° abr. 2020.
+PANDINI, W. ISO 27000, primeiros passos com a norma. Ostec Segurança Digital de Resultados, c2020. Disponível em: https://ostec.blog/padronizacaoseguranca/primeiros-passos-iso-27000  Acesso em: 1° abr. 2020.
 
 PAZ, N. As normas ISO de cibersegurança que sua empresa deve seguir. Idblog, [s. l.], 31 jul. 2019. Disponível em: https://blog.idwall.co/normas-isociberseguranca/ Acesso em: 1° abr. 2020.
 
-TÜV RHEINLAND, T. Segurança da informação ISO 27001. TÜV Rheinland Precisely Right, TI e dispositivos de telecomunicação, São Paulo, c2020. Disponível em: https://www.tuv.com/brasil/br/seguran%C3%A7a-dainforma%C3%A7%C3%A3o-iso-27001.html. Acesso em: 1° abr. 2020.
+TÜV RHEINLAND, T. Segurança da informação ISO 27001. TÜV Rheinland Precisely Right, TI e dispositivos de telecomunicação, São Paulo, c2020. Disponível em: https://www.tuv.com/brasil/br/seguran%C3%A7a-dainforma%C3%A7%C3%A3o-iso-27001.html Acesso em: 1° abr. 2020.
 
 RODRIGUES, L. Carregadores públicos podem roubar seus dados; entenda. Techtudo, [s. l.], 3 jun. 2019. Disponível em: https://www.techtudo.com.br/noticias/2019/06/carregadores-publicos-podem-roubar-seus-dados-entenda.ghtml. Acesso em: 1° abr. 2020.
+
 SCHROEDER, T. COBIT and ITIL: differences and similarities. Excellence Blog, [s. l.], 8 mar. 2016. Disponível em: https://blog.softexpert.com/en/cobit-itildifferences-similarities/. Acesso em: 1° jul. 2020.
 
 SÊMOLA, M. Gestão da segurança da informação: uma visão executiva. 2 ed. Rio de Janeiro: Elsevier, 2013. 192p. SERPRO. Quais são os seus direitos? Serpro, Brasília, c2020. Disponível em: https://www.serpro.gov.br/lgpd/cidadao/quais-sao-os-seus-direitos-lgpd Acesso em: 1° abr. 2020.
@@ -128,7 +125,18 @@ TEIXEIRA, J. P. F. Você: titular de dados pessoais. Jusbrasil, [s. l.], 24 set.
 
 TEIXEIRA FILHO, S. A. Segurança da informação descomplicada. Joinville: Clube de Autores, 2019. 516 p.
 
-SILVEIRA, J. C. Pode ou não pode: o empregador monitorar e-mail corporativo de trabalhadores. 2017. Brasília: Justiça do Trabalho, Rádio Justiça, 2017. 
-Disponível em: http://www.tst.jus.br/radio-destaques/-/asset_publisher/2bsB/content/pode-ou-nao-pode-o-empregador-monitorar-e-mail-corporativo-detrabalhadores Acesso em: 1° abr. 2020.
+SILVEIRA, J. C. Pode ou não pode: o empregador monitorar e-mail corporativo de trabalhadores. 2017. Brasília: Justiça do Trabalho, Rádio Justiça, 2017. Disponível em: http://www.tst.jus.br/radio-destaques/-/asset_publisher/2bsB/content/pode-ou-nao-pode-o-empregador-monitorar-e-mail-corporativo-detrabalhadores Acesso em: 1° abr. 2020.
 
 **Referências**
+
+[^ABNT2018a]: ABNT. [NBR ISO/IEC 19011: tecnologia da informação - técnicas de segurança - sistema de gestão da segurança da informação - visão geral e vocabulário](). Rio de Janeiro: ABNT, 2018a.
+
+[^ABNT2018b]:ABNT. [NBR ISO/IEC 27000: tecnologia da informação - técnicas de segurança - sistema de gestão da segurança da informação - visão geral e vocabulário](https://1drv.ms/b/s!Au-CrfNP6c0bhpoE2T2bWx08elOMyg?e=VZQYRA). Rio de Janeiro: ABNT, 2018b.
+
+[^ABNT2016]: ABNT. [NBR-ISO-IEC 27002 - TI - Tecnicas de Seguranca - CODIGO de PRATICA para CONTROLES de SEGURANÇA DA INFORMACAO](https://1drv.ms/b/s!Au-CrfNP6c0bhpg-eoOYsEdTIUfkuQ?e=FHV57i). Rio de Janeiro: ABNT, 2016.
+
+[^ABNT2015]: ABNT. [NBR ISO/IEC 27003: tecnologia da informação - técnicas de segurança - diretrizes para implantação de um sistema de gestão da segurança da informação](). Rio de Janeiro: ABNT, 2015.
+
+[^ABNT2013a]: ABNT. [NBR ISO/IEC 27001: tecnologia da informação - técnicas de segurança - sistema de gestão da segurança da informação - requisitos](https://1drv.ms/b/s!Au-CrfNP6c0bhpg8MYT-LjkZsOrB0A?e=bsMPTY). Rio de Janeiro:ABNT, 2013a.
+
+[^ABNT2013b]: [ABNT. NBR ISO/IEC 27002: tecnologia da informação - técnicas de segurança - técnicas de prática para a gestão da segurança da informação](https://1drv.ms/b/s!Au-CrfNP6c0bhpg-eoOYsEdTIUfkuQ?e=FHV57i). Rio de Janeiro:ABNT, 2013b.

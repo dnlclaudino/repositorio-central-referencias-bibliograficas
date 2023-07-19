@@ -144,3 +144,11 @@ SILVEIRA, J. C. Pode ou não pode: o empregador monitorar e-mail corporativo de 
 [^ABNT2013a]: ABNT. [NBR ISO/IEC 27001: tecnologia da informação - técnicas de segurança - sistema de gestão da segurança da informação - requisitos](https://1drv.ms/b/s!Au-CrfNP6c0bhpg8MYT-LjkZsOrB0A?e=bsMPTY). Rio de Janeiro:ABNT, 2013a.
 
 [^ABNT2013b]: [ABNT. NBR ISO/IEC 27002: tecnologia da informação - técnicas de segurança - técnicas de prática para a gestão da segurança da informação](https://1drv.ms/b/s!Au-CrfNP6c0bhpg-eoOYsEdTIUfkuQ?e=FHV57i). Rio de Janeiro:ABNT, 2013b.
+
+[^BRASIL-2006]: BRASIL. Decreto nº 5707, de 23 de fevereiro de 2006. Institui a Política e as Diretrizes para o Desenvolvi-mento de Pessoal da administração pública federal direta, autárquica e fundacional, e regulamenta dis-positivos da Lei nº 8.112, de 11 de dezembro de 1990. Disponível em: <http://www.planalto.gov.br/ccivil/_Ato2004-2006/2006/Decreto/D5707.htm>. Acesso em: 17 set. 2010.
+
+[^CARBONE-2009]: CARBONE, P. P. et al. Gestão por competências e gestão do conhecimento. Rio de Janeiro: FGV, 2009.
+
+[^COSTA-2018]: COSTA, Thiago Dias. Gestão de Pessoas por Competências. Salvador:UFBA, 2018
+
+[^BRANDAO-2012]: BRANDÃO, H. P. Mapeamento de competências: métodos, técnicas e instrumentos. São Paulo: Atlas, 2012.

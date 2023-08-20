@@ -35,7 +35,7 @@
 |CIÊNCIAS HUMANAS E SOCIAIS|Contabilidade|Introdução à Contabilidade|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Ciência Política|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Constitucional|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Administrativo|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Administrativo|- [**Maria Sylvia Zanella de Pietro, 2012**<br>Livro: Direito Administrativo]()<br> - [**Marcelo Alexandrino; Vicente Paulo, 2018**<br>Livro: Direito Administrativo Descomplicado]()|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Normas Jurídicas|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Normas Relacionadas<br>com Computação<br>LGPD - Lei geral de<br> Proteção de Dados|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Licitações e Contratos|-|-|
